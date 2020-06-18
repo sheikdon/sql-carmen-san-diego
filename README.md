@@ -44,6 +44,11 @@ when you're on an empty line. If you're in the middle of entering text then pres
 to submit the current query (even if it has syntax errors) then press CTRL+D on an
 empty line to quit.
 
+Use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
+
+There are two ways to track your answers:
+
+##### 1
 Write your SQL commands into different .sql files and execute them using
 
 ```
@@ -53,7 +58,9 @@ psql -f query3.sql
 ... and so forth
 ```
 
-Then, use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
+##### 2
+
+Write your SQL query under the relevant clue in the `clues.sql` file! If it doesn't work, rework it and paste it into your `psql` shell.
 
 ### The Clues
 
