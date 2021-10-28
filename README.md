@@ -12,7 +12,7 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Requirements
 
-- Fork and clone
+- If you're doing this assignment as a deliverable, fork and clone it
 - Use the clues.sql file as your "answer sheet"
 - From the command line, we're going to create a new database called `world` and populate it with the SQL found in `world.sql`
 
